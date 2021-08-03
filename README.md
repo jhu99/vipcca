@@ -1,6 +1,6 @@
-# Scbean
+# VIPCCA
 
- [![Documentation Status](https://readthedocs.org/projects/vipcca/badge/?version=latest)](https://vipcca.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://www.travis-ci.com/jhu99/scbean.svg?token=wnxY2Jwmr9V1MufszFW4&branch=main)](https://www.travis-ci.com/jhu99/scbean) ![PyPI](https://img.shields.io/pypi/v/scbean?color=blue) [![Downloads](https://pepy.tech/badge/scbean)](https://pepy.tech/project/scbean) ![GitHub Repo stars](https://img.shields.io/github/stars/jhu99/scbean?color=yellow)
+ [![Documentation Status](https://readthedocs.org/projects/vipcca/badge/?version=latest)](https://vipcca.readthedocs.io/en/latest/?badge=latest) ![PyPI](https://img.shields.io/pypi/v/vipcca?color=blue) [![Downloads](https://pepy.tech/badge/vipcca)](https://pepy.tech/project/vipcca) ![GitHub Repo stars](https://img.shields.io/github/stars/jhu99/vipcca?color=yellow)
 
 ### Installation
 
@@ -11,13 +11,13 @@
   $ conda activate vipcca
   ```
 
-- Install scbean from pypi
+- Install VIPCCA from pypi
 
   ```shell
   $ pip install vipcca
   ```
 
-- Alternatively, install the develop version of scbean from GitHub source code
+- Alternatively, install the develop version of VIPCCA from GitHub source code
 
   ```shell
   $ git clone https://github.com/jhu99/vipcca.git
