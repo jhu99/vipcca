@@ -3,21 +3,21 @@
 - Create conda environment
 
   ```shell
-  $ conda create -n scbean python=3.8
-  $ conda activate scbean
+  $ conda create -n vipcca python=3.8
+  $ conda activate vipcca
   ```
 
-- Install scbean from pypi
+- Install vipcca from pypi
 
   ```shell
-  $ pip install scbean
+  $ pip install vipcca
   ```
 
-- Install scbean from GitHub source code
+- Install vipcca from GitHub source code
 
   ```shell
-  $ git clone https://github.com/jhu99/scbean.git
-  $ cd ./scbean/
+  $ git clone https://github.com/jhu99/vipcca.git
+  $ cd ./vipcca/
   $ pip install .
   ```
 

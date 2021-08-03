@@ -17,12 +17,12 @@ install_requires = [
       'louvain',
       'h5py'
 ]
-setup(name='scbean',
-      version='0.4.3',
-      description='integration',
+setup(name='vipcca',
+      version='0.0.1',
+      description='single cell integration',
       long_description=long_description,
       long_description_content_type="text/markdown",
-      url='https://github.com/jhu99/scbean',
+      url='https://github.com/jhu99/vipcca',
       author='Jialu Hu',
       author_email='jialuhu@umich.edu',
       license='MIT',
