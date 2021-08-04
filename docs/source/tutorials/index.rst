@@ -1,5 +1,5 @@
 
-Tutorials for scbean--VIPCCA
+Tutorials for VIPCCA
 =========================================================
 
 .. toctree::
