@@ -21,7 +21,7 @@
 
   ```shell
   $ git clone https://github.com/jhu99/vipcca.git
-  $ cd ./viocca/
+  $ cd ./vipcca/
   $ python -m pip install .
   ```
 
@@ -29,7 +29,7 @@
 
 ### Usage of vipcca
 
-For a quick start, please first download our test [data](http://141.211.10.196/result/test/papers/vipcca/data.tar.gz), then follow our guide about the usage of scbean in the tutorial and documentation pages [here](https://vipcca.readthedocs.io/en/latest/).
+For a quick start, please first download our test [data](http://141.211.10.196/result/test/papers/vipcca/data.tar.gz), then follow our guide about the usage of VIPCCA in the [**Tutorial and Documentation**](https://vipcca.readthedocs.io/en/latest/) pages.
 
 
 
