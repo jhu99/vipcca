@@ -35,7 +35,7 @@ Data alignment is one of the first key steps in single cell analysis for integra
 
 ### Usage of vipcca
 
-For a quick start, please first download our test [data](http://141.211.10.196/result/test/papers/vipcca/data.tar.gz), then follow our guide about the usage of VIPCCA in the [**Tutorial and Documentation**](https://vipcca.readthedocs.io/en/latest/) pages.
+For a quick start, please follow our guide about the usage of VIPCCA in the [**Tutorial and Documentation**](https://vipcca.readthedocs.io/en/latest/) pages.
 
 
 
