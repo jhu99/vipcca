@@ -3,15 +3,15 @@ API
 
 Preprocessing
 ---------------------
-.. automodule:: scbean.tools.utils
-   :members: read_sc_data,preprocessing,davae_preprocessing, spatial_preprocessing, spatial_rna_preprocessing
+.. automodule:: vipcca.tools.utils
+   :members: read_sc_data,preprocessing, spatial_preprocessing, spatial_rna_preprocessing
    :undoc-members:
    :show-inheritance:
 
 
 Plotting
 ---------------------
-.. automodule:: scbean.tools.plotting
+.. automodule:: vipcca.tools.plotting
    :members: plotCorrelation
    :undoc-members:
    :show-inheritance:
@@ -19,7 +19,7 @@ Plotting
 
 VIPCCA
 ---------------------
-.. autoclass:: scbean.model.vipcca.VIPCCA
+.. autoclass:: vipcca.model.vipcca.VIPCCA
    :members: 
    :undoc-members:
    :show-inheritance:
