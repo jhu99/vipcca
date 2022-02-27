@@ -9,7 +9,7 @@ Data alignment is one of the first key steps in single cell analysis for integra
 
 ### Citation
 
-Jialu Hu, Mengjie Chen, Xiang Zhou, Effective and scalable single-cell data alignment with non-linear canonical correlation analysis, Nucleic Acids Research, 2021;, gkab1147, https://doi.org/10.1093/nar/gkab1147
+Jialu Hu, Mengjie Chen, Xiang Zhou, Effective and scalable single-cell data alignment with non-linear canonical correlation analysis, Nucleic Acids Research, Volume 50, Issue 4, 28 February 2022, Page e21, https://doi.org/10.1093/nar/gkab1147
 
 ### Installation
 
