@@ -19,7 +19,7 @@ install_requires = [
       'future'
 ]
 setup(name='vipcca',
-      version='0.2.6',
+      version='0.2.7',
       description='single cell integration',
       long_description=long_description,
       long_description_content_type="text/markdown",
