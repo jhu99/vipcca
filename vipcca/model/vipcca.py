@@ -515,7 +515,7 @@ class VIPCCA(object):
     patience_lr: int, optional (default: 25)
         number of epochs with no improvement after which learning rate will be reduced.
 
-    epochs: int, optional (default: 1000)
+    epochs: int, optional (default: 100)
         Number of epochs to train the model. An epoch is an iteration over the entire x and y data provided.
 
     res_path: string, (default: None)
@@ -566,7 +566,7 @@ class VIPCCA(object):
                  adata_all=None,
                  patience_es=50,
                  patience_lr=25,
-                 epochs=1000,
+                 epochs=100,
                  res_path=None,
                  split_by="_batch",
                  method="lognorm",
