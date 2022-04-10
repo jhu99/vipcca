@@ -42,5 +42,8 @@ Jialu Hu, Yuanke Zhong, Xuequn Shang, A versatile and scalable single-cell data 
 
 For a quick start, please follow our guide about the usage of VIPCCA in the [**Tutorial and Documentation**](https://vipcca.readthedocs.io/en/latest/) pages.
 
+### 
+VIPCCA API has been implemented in our python toolbox, [**scbean**](https://github.com/jhu99/scbean), which has offer some other tools for the analysis of single-cell omics data.
+
 
 
